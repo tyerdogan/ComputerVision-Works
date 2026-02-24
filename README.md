@@ -1,6 +1,6 @@
 # Computer Vision Projects
 
-A lightweight repository for my Computer Vision and Deep Learning work,  
+A lightweight repository for Computer Vision work,  
 including course assignments and practical experiments.
 
 ## What’s inside
