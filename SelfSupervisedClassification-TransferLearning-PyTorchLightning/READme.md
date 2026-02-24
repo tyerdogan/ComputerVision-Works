@@ -1,6 +1,6 @@
 ## 📌 Project: Self-Supervised Classification & Transfer Learning with PyTorch Lightning
 
-This project explores advanced image classification techniques, comparing **Self-Supervised Learning (SimCLR)** against **Transfer Learning (ResNet50)**, all implemented using the **PyTorch Lightning** framework for scalable and modular deep learning.
+This project explores advanced image classification techniques (SeaLife Classification), comparing **Self-Supervised Learning (SimCLR)** against **Transfer Learning (ResNet50)**, all implemented using the **PyTorch Lightning** framework for scalable and modular deep learning.
 
 ### 🚀 Key Technologies
 - **PyTorch Lightning**: The core framework used to structure the training loops, separating research code from engineering logic.
